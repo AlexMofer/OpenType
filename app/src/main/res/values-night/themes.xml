@@ -13,4 +13,8 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="ThemeOverlay.OpenType.ActionBar" parent="ThemeOverlay.MaterialComponents.Light.ActionBar" />
+
+    <style name="ThemeOverlay.OpenType.Popup" parent="ThemeOverlay.MaterialComponents.Dark" />
 </resources>
